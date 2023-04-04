@@ -7,8 +7,8 @@ Oooi :)
 
 Hard Skills:
 Ferramentas Técnicas:
-Java | C# | Python | Angular | HTML | CSS |JavaScript 
-.NET Framework | Django | Django Rest Framework | SpringBoot 
+Java | C# | Python | Angular | HTML | CSS | JavaScript 
+.NET Framework | .NET Core | Django | Django Rest Framework | SpringBoot 
 Git | Postman | Insomnia
 
 Além de conhecimento em: 
