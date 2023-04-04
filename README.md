@@ -1,16 +1,18 @@
-### Hi there 👋
+Oooi :)
 
-<!--
-**marialuiza1234/marialuiza1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Sou Desenvolvedora FullStack Jr. 
+📌 Formada em Bacharel em Ciência da Computação pela UEPB.
+📌 Formada em MBA em Engenharia de Software pela FMSP.
+📌 Analista de Soluções I na Capgemini.
 
-Here are some ideas to get you started:
+Hard Skills:
+Ferramentas Técnicas:
+Java | C# | Python | Angular | HTML | CSS |JavaScript 
+.NET Framework | Django | Django Rest Framework | SpringBoot 
+Git | Postman | Insomnia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além de conhecimento em: 
+Testes Unitários
+
+Skills em aprendizado:
+Inglês | Azure | ITIL
