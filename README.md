@@ -15,4 +15,4 @@ Além de conhecimento em:
 Testes Unitários
 
 Skills em aprendizado:
-Inglês | Azure | ITIL
+Inglês | AWS | ITIL
