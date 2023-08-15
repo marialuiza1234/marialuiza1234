@@ -1,8 +1,11 @@
 Oooi, sou a Maria Luiza.
 
-📌 Sou Desenvolvedora FullStack Jr. 
+📌 Sou Desenvolvedora FullStack Jr.
+
 📌 Formada em Bacharel em Ciência da Computação pela UEPB.
+
 📌 Formada em MBA em Engenharia de Software pela FMSP.
+
 📌 Analista de Soluções I na Capgemini.
 
 Hard Skills:
