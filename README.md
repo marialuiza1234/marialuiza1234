@@ -1,4 +1,4 @@
-Oooi :)
+Oooi, sou a Maria Luiza.
 
 📌 Sou Desenvolvedora FullStack Jr. 
 📌 Formada em Bacharel em Ciência da Computação pela UEPB.
@@ -7,9 +7,7 @@ Oooi :)
 
 Hard Skills:
 Ferramentas Técnicas:
-Java | C# | Python | Angular | HTML | CSS | JavaScript | TypeScript |
-.NET Framework | .NET Core | Django | Django Rest Framework | SpringBoot |
-Git | Postman | Insomnia 
+Java | C# | Python | Angular | HTML | CSS | JavaScript | TypeScript | .NET Framework | .NET Core | Django | Django Rest Framework | SpringBoot | Git | Postman | Insomnia 
 
 Além de conhecimento em: 
 Testes Unitários
