@@ -6,7 +6,7 @@ Oooi, sou a Maria Luiza.
 
 📌 Formada em MBA em Engenharia de Software pela FMSP.
 
-📌 Analista de Soluções II na Capgemini.
+📌 Consultor de Soluções II na Capgemini.
 
 Hard Skills:
 Ferramentas Técnicas:
